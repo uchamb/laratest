@@ -1,0 +1,7 @@
+{
+    "name": "larkhana/laratest",
+    "description": "Laravel admin panel generator",
+    "require": {
+        "php": ">=5.6.4"
+    }
+}
